@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1594674701 source:c:\users\sebastian paz\ccomp0104\ejercicio_10.9\src\hugeinteger.cpp
+	<cctype>
+	"HugeInteger.h"
+
+1594163653 c:\users\sebastian paz\ccomp0104\ejercicio_10.9\include\hugeinteger.h
+	<array>
+	<iostream>
+	<string>
+
+1594685606 source:c:\users\sebastian paz\ccomp0104\ejercicio_10.9\main.cpp
+	<iostream>
+	"HugeInteger.h"
+
