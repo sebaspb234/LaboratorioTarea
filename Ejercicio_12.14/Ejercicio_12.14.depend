@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1594662961 source:c:\users\sebastian paz\ccomp0104\ejercicio_12.14\main.cpp
+	<iostream>
+	<vector>
+	"Empleado.h"
+	"PieceWorker.h"
+	"HourlyWorker.h"
+
+1594662770 c:\users\sebastian paz\ccomp0104\ejercicio_12.14\include\empleado.h
+	<iostream>
+	<sstream>
+	<string>
+
+1594657525 source:c:\users\sebastian paz\ccomp0104\ejercicio_12.14\src\empleado.cpp
+
+1594658855 source:c:\users\sebastian paz\ccomp0104\ejercicio_12.14\src\pieceworker.cpp
+
+1594662906 c:\users\sebastian paz\ccomp0104\ejercicio_12.14\include\pieceworker.h
+	"Empleado.h"
+	<iostream>
+	<sstream>
+	<string>
+
+1594658883 source:c:\users\sebastian paz\ccomp0104\ejercicio_12.14\src\hourlyworker.cpp
+
+1594662906 c:\users\sebastian paz\ccomp0104\ejercicio_12.14\include\hourlyworker.h
+	"Empleado.h"
+	<iostream>
+	<sstream>
+	<string>
+
