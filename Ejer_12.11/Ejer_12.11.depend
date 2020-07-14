@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1594613190 source:c:\users\sebastian paz\ccomp0104\ejer_12.11\main.cpp
+	<iostream>
+	"Empleado.h"
+	"Contador.h"
+	"Conserje.h"
+	"Date.h"
+	<string>
+	<vector>
+
+1594613197 c:\users\sebastian paz\ccomp0104\ejer_12.11\include\empleado.h
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+	"Date.h"
+
+1594612309 source:c:\users\sebastian paz\ccomp0104\ejer_12.11\src\date.cpp
+	"Date.h"
+	<iostream>
+	<string>
+	<vector>
+
+1594612309 c:\users\sebastian paz\ccomp0104\ejer_12.11\include\date.h
+	<iostream>
+	<string>
+	<array>
+	<vector>
+
+1594608278 source:c:\users\sebastian paz\ccomp0104\ejer_12.11\src\empleado.cpp
+
+1594608444 source:c:\users\sebastian paz\ccomp0104\ejer_12.11\src\contador.cpp
+
+1594608681 source:c:\users\sebastian paz\ccomp0104\ejer_12.11\src\conserje.cpp
+
+1594611729 c:\users\sebastian paz\ccomp0104\ejer_12.11\include\contador.h
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+
+1594611729 c:\users\sebastian paz\ccomp0104\ejer_12.11\include\conserje.h
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+
